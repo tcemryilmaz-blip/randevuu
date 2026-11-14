@@ -1,0 +1,45 @@
+{
+  "_aciklama": "Hizmet alanları kataloğu. 'id' işletmelerin alt kategorisidir; 'ad' kullanıcıya görünen addır; 'esanlam' aramada bu alana götüren kelimelerdir. Dosya her istekte okunur, sunucuyu yeniden başlatmak gerekmez. Uygulamadaki liste alfabetik gösterilir; buradaki sıra önemsizdir.",
+  "alanlar": [
+    {
+      "id": "dis-hekimi",
+      "ad": "Diş hekimi",
+      "esanlam": ["dişçi", "diş", "dentist", "ağız ve diş", "implant", "dolgu", "diş taşı", "kanal tedavisi", "diş beyazlatma", "ortodonti"]
+    },
+    {
+      "id": "kuafor",
+      "ad": "Kuaför",
+      "esanlam": ["saç", "saç kesimi", "fön", "boya", "röfle", "balyaj", "keratin", "bayan kuaför", "gelin saçı"]
+    },
+    {
+      "id": "guzellik",
+      "ad": "Güzellik merkezi",
+      "esanlam": ["güzellik", "güzellik salonu", "manikür", "pedikür", "tırnak", "protez tırnak", "cilt bakımı", "kaş", "kirpik", "ağda", "epilasyon", "lazer", "makyaj"]
+    },
+    {
+      "id": "oto-yikama",
+      "ad": "Oto yıkama",
+      "esanlam": ["oto kuaför", "araba yıkama", "araç yıkama", "araba", "araç", "oto", "detaylı temizlik", "pasta cila", "seramik kaplama", "iç temizlik"]
+    },
+    {
+      "id": "veteriner",
+      "ad": "Veteriner",
+      "esanlam": ["vet", "veteriner hekim", "kedi", "köpek", "evcil hayvan", "aşı", "kısırlaştırma", "pet"]
+    },
+    {
+      "id": "psikolog",
+      "ad": "Psikolog",
+      "esanlam": ["psikoterapi", "terapi", "terapist", "danışman", "psikolojik danışmanlık", "aile terapisi", "çift terapisi"]
+    },
+    {
+      "id": "berber",
+      "ad": "Berber",
+      "esanlam": ["erkek kuaförü", "sakal", "tıraş", "saç sakal", "erkek saç kesimi"]
+    },
+    {
+      "id": "pilates",
+      "ad": "Pilates",
+      "esanlam": ["reformer", "spor", "egzersiz", "stüdyo", "esneme", "duruş"]
+    }
+  ]
+}

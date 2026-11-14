@@ -1,0 +1,6 @@
+{
+  "_aciklama": "Uygulamanin uzaktan ayari. Buraya yazdigin anahtarlar mobile/src/config icindeki varsayilanlarin uzerine yazilir. Ornek: {\"metinler\": {\"marka\": {\"motto\": \"Anini yakala.\"}}, \"tema\": {\"renk\": {\"mercan\": \"#FF6A3D\"}}, \"maskot\": {\"sahne\": {\"karsilama\": {\"soz\": \"Merhaba!\"}}}}",
+  "metinler": {},
+  "tema": {},
+  "maskot": {}
+}
